@@ -31,8 +31,8 @@ TRANSL = {
     "spotter": ["spotter", "observateur", "Späher", "observador", "obserwator", "observador", "наблюдатель", "侦察兵"],
     "sniper": ["sniper", "sniper", "Scharfschütze", "francotirador", "snajper", "atirador de elite", "снайпер", "狙击手"],
     "artilleryobserver": ["artillery observer", "observateur d'artillerie", "Artilleriebeobachter", "observador de artillería", "obserwator artylerii", "observador de artilharia", "артиллерийский наблюдатель", "炮兵观察员"],
-    "artilleryengineer": ["artillery engineer", "ingénieur d'artillerie", "Artillerieingenieur", "ingeniero de artillería", "inżynier artylerii", "engenheiro de artilharia", "артиллерийский инженер", "炮兵工程兵"],
-    "artillerysupport": ["artillery support", "support d'artillerie", "Artillerieunterstützung", "apoyo de artillería", "wsparcie artylerii", "suporte de artilharia", "артиллерийская поддержка", "炮兵支援"],
+    "operator": ["artillery operator", "opérateur d'artillerie", "Artilleriebediener", "operador de artillería", "operator artylerii", "operador de artilharia", "оператор артиллерии", "炮兵操作员"],
+    "gunner": ["artillery gunner", "tireur d'artillerie", "Artillerieschütze", "artillero", "operator artylerii", "atirador de artilharia", "артиллерист-наводчик", "炮手"],
 
     # Teams
     "allies": ["Allies", "Alliés", "Alliierte", "Aliados", "Alianci", "Aliados", "Союзники", "盟军"],
