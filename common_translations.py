@@ -92,6 +92,7 @@ TRANSL = {
     "punishment": ["punishment", "punition", "Bestrafung", "castigo", "kara", "punição", "наказание", "惩罚"],
     "ratio": ["ratio", "ratio", "Verhältnis", "ratio", "stosunek", "razão", "соотношение", "比率"],
     "victim": ["victim", "victime", "Opfer", "víctima", "ofiara", "vítima", "жертва", "受害者"],
+    "na": ["N/A", "N/D", "N.V.", "N/D", "N/D", "B/D", "Н/Д", "无"],  # "Not available"
 
     # automod_forbid_role.py
     "play_as": ["Play as", "A pris le rôle", "Spiele als", "Jugar como", "Graj jako", "Jogar como", "Играет как", "扮演"],
