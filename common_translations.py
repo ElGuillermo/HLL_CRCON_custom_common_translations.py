@@ -32,9 +32,16 @@ TRANSL = {
     "sniper": ["sniper", "sniper", "Scharfschütze", "francotirador", "snajper", "atirador de elite", "снайпер", "狙击手"],
     "artilleryobserver": ["artillery observer", "observateur d'artillerie", "Artilleriebeobachter", "observador de artillería", "obserwator artylerii", "observador de artilharia", "артиллерийский наблюдатель", "炮兵观察员"],
     "operator": ["artillery operator", "opérateur d'artillerie", "Artilleriebediener", "operador de artillería", "operator artylerii", "operador de artilharia", "оператор артиллерии", "炮兵操作员"],
-    "gunner": ["artillery gunner", "tireur d'artillerie", "Artillerieschütze", "artillero", "operator artylerii", "atirador de artilharia", "артиллерист-наводчик", "炮手"],
+    "gunner": ["artillery gunner", "servant d'artillerie", "Artillerieschütze", "artillero", "operator artylerii", "atirador de artilharia", "артиллерист-наводчик", "炮手"],
+
+    # Units
+    "infantry": ["infantry", "infanterie", "Infanterie", "infantería", "piechota", "infantaria", "пехота", "步兵"],
+    "armor": ["armor", "blindés", "Panzerung", "blindados", "pancerne", "blindados", "бронетехника", "装甲部队"],
+    "artillery": ["artillery", "artillerie", "Artillerie", "artillería", "artyleria", "artilharia", "артиллерия", "火炮"],
+    "reconnaissance": ["reconnaissance", "reconnaissance", "Aufklärung", "reconocimiento", "rozpoznanie", "reconhecimento", "разведка", "侦察"],
 
     # Teams
+    "all_players": ["all players", "tous les joueurs", "Alle Spieler", "todos los jugadores", "wszyscy gracze", "todos os jogadores", "все игроки", "所有玩家"],
     "allies": ["Allies", "Alliés", "Alliierte", "Aliados", "Alianci", "Aliados", "Союзники", "盟军"],
     "axis": ["Axis", "Axe", "Achsenmächte", "Eje", "Oś", "Eixo", "Ось", "轴心国"],
 
