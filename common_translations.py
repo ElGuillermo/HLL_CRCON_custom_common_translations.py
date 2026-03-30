@@ -35,6 +35,7 @@ TRANSL = {
     "gunner": ["artillery gunner", "servant d'artillerie", "Artillerieschütze", "artillero", "operator artylerii", "atirador de artilharia", "артиллерист-наводчик", "炮手"],
 
     # Units
+    # "units": ["units", "unités", "Einheiten", "unidades", "jednostki", "unidades", "единицы", "单位"],
     "infantry": ["infantry", "infanterie", "Infanterie", "infantería", "piechota", "infantaria", "пехота", "步兵"],
     "armor": ["armor", "blindés", "Panzerung", "blindados", "pancerne", "blindados", "бронетехника", "装甲部队"],
     "artillery": ["artillery", "artillerie", "Artillerie", "artillería", "artyleria", "artilharia", "артиллерия", "火炮"],
@@ -82,6 +83,7 @@ TRANSL = {
     "avg": ["avg", "moy", "avg", "prom", "śr", "méd", "ср", "均"],
     "distribution": ["distribution", "distribution", "Verteilung", "distribución", "dystrybucja", "distribuição", "распределение", "分布"],
     "players": ["players", "joueurs", "Spieler", "jugadores", "gracze", "jogadores", "игроки", "玩家"],
+    "squads": ["squads", "escouades", "Trupps", "escuadras", "drużyny", "esquadrões", "отряды", "小队"],
     "score": ["score", "score", "Punktzahl", "puntuación", "wynik", "pontuação", "счет", "得分"],
     "stats": ["stats", "stats", "Statistiken", "estadísticas", "statystyki", "estatísticas", "статистика", "统计数据"],
     "total": ["total", "total", "Summe", "total", "suma", "total", "всего", "总计"],
