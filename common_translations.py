@@ -17,7 +17,6 @@ Feel free to use/modify/distribute, as long as you keep this note in your code
 TRANSL = {
     # Roles
     "armycommander": ["commander", "commandant", "Kommandant", "comandante", "dowódca", "comandante", "командир", "指挥官"],
-
     "officer": ["squad leader", "officier", "Offizier", "líder de escuadrón", "dowódca drużyny", "líder de esquadrão", "офицер", "小队长"],
     "rifleman": ["rifleman", "fusilier", "Schütze", "fusilero", "strzelec", "fuzileiro", "стрелок", "步枪手"],
     "assault": ["assault", "assault", "Sturmangreifer", "asalto", "szturmowiec", "assalto", "штурмовик", "突击手"],
