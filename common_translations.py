@@ -117,7 +117,7 @@ TRANSL = {
     # Calculated stats
     # ------------------------------------------
     "teamplay": ["combat + support", "combat + soutien", "kampf + unterstützung", "combate + apoyo", "walka + wsparcie", "combate + apoio", "бой + поддержка", "团队配合"],
-    "offdef": ["offensive + defensive", "attaque + défense", "offensiv + defensiv", "ofensiva + defensiva", "ataki + obrona", "ofensiva + defensiva", "атака + оборона", "攻防比"],
+    "offdef": ["offense + defense", "attaque + défense", "offensiv + defensiv", "ofensiva + defensiva", "ataki + obrona", "ofensiva + defensiva", "атака + оборона", "攻防比"],
     "kd": ["kills / deaths", "kills / morts", "kills / tode", "kills / deaths", "zabójstwa / zgony", "kills / mortes", "убийства / смерти", "KD比"],
     "kpm": ["kills / minute", "kills / minute", "kills / minute", "bajas / minuto", "zabójstwa / minutę", "abates / minuto", "убийств / минуту", "击杀 / 分"],
 
@@ -201,6 +201,7 @@ TRANSL = {
     "already_vip": ["Already VIP !", "Déjà VIP !", "bereits VIP !", "¡Ya es VIP!", "Aktualnie ma VIPa!", "Já é VIP!", "Уже VIP!", "已经是VIP！"],
     "vip_won": ["You won a VIP until", "Tu as gagné un VIP jusqu'au", "Du hast ein VIP gewonnen bis", "Has ganado un VIP hasta el", "Wygrałeś VIP do", "Você ganhou um VIP até", "Вы выиграли VIP до", "你赢得了VIP，有效期至"],
     "vip_at": ["at", "à", "um", "a las", "do godziny", "às", "в", "于"],
+    "vip_note" : ["earns a VIP", "gagne un VIP", "erhält VIP-Status", "gana un VIP", "otrzymuje VIP", "ganha um VIP", "получает VIP", "获得VIP"],
 
     # watch_balance.py
     # ------------------------------------------
