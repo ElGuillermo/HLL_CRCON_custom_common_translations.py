@@ -202,6 +202,9 @@ TRANSL = {
     "vip_won": ["You won a VIP until", "Tu as gagné un VIP jusqu'au", "Du hast ein VIP gewonnen bis", "Has ganado un VIP hasta el", "Wygrałeś VIP do", "Você ganhou um VIP até", "Вы выиграли VIP до", "你赢得了VIP，有效期至"],
     "vip_at": ["at", "à", "um", "a las", "do godziny", "às", "в", "于"],
     "vip_note" : ["earns a VIP", "gagne un VIP", "erhält VIP-Status", "gana un VIP", "otrzymuje VIP", "ganha um VIP", "получает VIP", "获得VIP"],
+    # Bonus
+    "defense_bonus": ["Defense bonus", "Bonus défense", "Verteidigungsbonus", "Bonus de defensa", "Bonus do obrony", "Bônus de defesa", "Бонус защиты", "防御加成"],
+    "support_bonus": ["Support bonus", "Bonus support", "Unterstützungsbonus", "Bonus de apoyo", "Bonus wsparcia", "Bônus de suporte", "Бонус поддержки", "支援加成"],
 
     # watch_balance.py
     # ------------------------------------------
